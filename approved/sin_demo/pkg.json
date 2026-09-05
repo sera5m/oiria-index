@@ -1,0 +1,6 @@
+{
+  "id": "sin_demo",
+  "version": "0.1.0",
+  "kind": "vul",
+  "note": "LUT wrap demo from the OS tree"
+}
