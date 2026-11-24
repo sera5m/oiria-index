@@ -1,7 +1,7 @@
 # oiria-index
 
-AUR-shaped catalog for Vulcan / OIRIA watch scripts.
-You (sera5m) **read the PR and merge**. Nothing is auto-approved.
+AUR-shaped catalog for toplethos / OIRIA watch scripts and apps
+ Nothing is auto-approved. The owner of this repo has to read your commit and merge
 
 Desktop companions only serve packages that exist under `approved/`.
 
@@ -29,3 +29,6 @@ Each package folder:
 4. Maintainer moves the folder to `approved/` or `rejected/` and merges.
 
 Do not put binaries. Source only. No `fs.delete` / power scripts.
+
+
+# WARNING OUT OF DATE DO NOT USE
